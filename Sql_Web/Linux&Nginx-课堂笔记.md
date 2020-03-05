@@ -1,9 +1,6 @@
 # Linux&Nginx-课堂笔记
 
-```
-网络帐号：javaee84@sz.itcast.cn
-   密码：96mvpz5c
-```
+
 
 ## 一、在Linux里安装软件
 
