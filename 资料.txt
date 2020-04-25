@@ -1,0 +1,28 @@
+http://stackoverflow.com/	Stack Overflow(工作里面遇到的90%的bug都有正确答案)[重要]
+https://github.com/			世界上最大的开源代码托管平台 
+http://devdocs.io/      	查询API
+https://www.ibm.com/developerworks/cn/java/ IMBJava开发
+
+http://mvnrepository.com/  mevean仓库(几乎能找到所有的框架的jar依赖)
+
+--------------------------------------------------------
+http://www.jdon.com/       各种编程模式
+http://www.iteye.com/	   软件开发社区
+http://www.cjsdn.net/	   中国Java开发网(包含了java基础,javaee,swing所有和java相关的内容
+
+QQ: 373634791 (sz70期 xxx) 
+
+
+
+
+
+
+
+
+
+
+
+
+	
+ 
+
